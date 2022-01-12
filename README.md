@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=foamfish&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+- 📧 Email: foamfish.yu@gmail.com
+- 😄 Wechat: foamfish
+- 🏠 Home Page: https://foamfish.github.io/
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=foamfish&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=foamfish&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
